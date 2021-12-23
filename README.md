@@ -1,4 +1,7 @@
 # boardgame
+## 資策會專題製作
+完整程式碼：https://github.com/Samyo0608/boardgame
+
 # 首頁
 
 ![alt text](https://imgur.com/5Xe9Fab.jpg)
